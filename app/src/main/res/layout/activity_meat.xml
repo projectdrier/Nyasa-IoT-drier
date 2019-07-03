@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/meat"
+    tools:context=".meat">
+
+    <TextView
+        android:id="@+id/simpleTextView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="@string/meat_drying"
+        android:textSize="40sp"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:gravity="center_horizontal"/>
+
+    <Button
+        android:id="@+id/msbutton"
+        android:layout_width="241dp"
+        android:layout_height="52dp"
+        android:layout_marginStart="72dp"
+        android:layout_marginLeft="72dp"
+        android:background="@drawable/custom_button"
+        android:text="@string/start_drying2"
+        android:textSize="25sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.745" />
+
+    <Button
+        android:id="@+id/gobutton2"
+        android:layout_width="144dp"
+        android:layout_height="45dp"
+        android:layout_marginStart="120dp"
+        android:layout_marginLeft="120dp"
+        android:background="@drawable/custom_buttons"
+        android:paddingStart="25dp"
+        android:paddingLeft="25dp"
+        android:paddingEnd="0dp"
+        android:paddingRight="0dp"
+        android:text="Go back"
+        android:textSize="25sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.921" />
+
+
+
+</android.support.constraint.ConstraintLayout>

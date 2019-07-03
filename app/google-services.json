@@ -1,0 +1,114 @@
+{
+  "project_info": {
+    "project_number": "777357724577",
+    "firebase_url": "https://iot-drier-1050f.firebaseio.com",
+    "project_id": "iot-drier-1050f",
+    "storage_bucket": "iot-drier-1050f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:777357724577:android:8a6ab75f607cf937",
+        "android_client_info": {
+          "package_name": "com.example.chiya.drierapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "777357724577-o0v7quta7049n798pl5cm87b7t31qe1j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chiya.drierapplication",
+            "certificate_hash": "cb2074f0b94e4332c66dabc91e3e1a4c6b0f3092"
+          }
+        },
+        {
+          "client_id": "777357724577-tv1m3frqosc1v6q09879r1iojkf8dk6e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjs1xTRLtNCtzyjB_5DA7l_q9Pecj7dxo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "777357724577-tv1m3frqosc1v6q09879r1iojkf8dk6e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:777357724577:android:6794ba7321c7624f",
+        "android_client_info": {
+          "package_name": "com.example.chiya.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "777357724577-9qi6u7jo2mq5o5pb0dl7evu9nra0nln5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chiya.myapplication",
+            "certificate_hash": "cb2074f0b94e4332c66dabc91e3e1a4c6b0f3092"
+          }
+        },
+        {
+          "client_id": "777357724577-tv1m3frqosc1v6q09879r1iojkf8dk6e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjs1xTRLtNCtzyjB_5DA7l_q9Pecj7dxo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "777357724577-tv1m3frqosc1v6q09879r1iojkf8dk6e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:777357724577:android:e974426fc4acb494",
+        "android_client_info": {
+          "package_name": "drier_app.controller"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "777357724577-tv1m3frqosc1v6q09879r1iojkf8dk6e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjs1xTRLtNCtzyjB_5DA7l_q9Pecj7dxo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "777357724577-tv1m3frqosc1v6q09879r1iojkf8dk6e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
